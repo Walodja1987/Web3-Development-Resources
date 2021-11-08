@@ -1,4 +1,4 @@
-# Web3-Development-Resources
+# Web3 Development Resources
 
 This is a curated list of web3 related tutorials that I personally found very helpful. I had many years of programming experience in Matlab, Python, Excel VBA, and SQL when I started this journey.
 
