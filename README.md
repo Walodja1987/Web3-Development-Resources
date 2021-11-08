@@ -46,8 +46,8 @@ This is a curated list of web3 related tutorials that I personally found very he
 # Contribution
 
 Rather than sharing general links to webpages, my goal is to maintain a short list of helpful tutorials that cover most of the relevant topics that a web3 developer needs to know. You can contribute as follows:
-* **Add new tutorials**: If you want to add to this list, open an issue, share the link, describe what the tutorial is about and why you like it. 
-* **Edit existing list**: If you believe that there are better tutorials/packages/tools than the ones that I listed above, open an issue, share the link, describe what this tutorial is about and why you think it's better than the currently listed one. 
+* **Add new resources**: If you want to add to this list, open an issue, share the link, describe what is about and why you like it. 
+* **Edit existing resources**: If you believe that there are better tutorials/packages/tools than the ones that are listed above, open an issue, share the link, describe what it is about and why you think it's better than the currently listed one. 
 
 
 
