@@ -44,11 +44,12 @@ This is a curated list of web3 related tutorials that I personally found very he
 ... in the making ...
 
 # Contribution
+There are many great tutorials out there, however, the goal of this list to keep it short and focus on the best tutorials in the space to make it easy and quick for newcomers to acquire the relevant knowledge about web3 development. You can contribute as follows:
+* **Add new resources**: If you feel that something is missing in this list, open an issue, share the link, describe what it is about and why you like it. 
+* **Edit existing resources**: If you believe that there are better tutorials/packages/tools available than the ones that are listed above, open an issue, share the link, describe what it is about and why you think it's better than the currently listed one. 
 
-Rather than sharing general links to webpages, my goal is to maintain a short list of helpful tutorials that cover most of the relevant topics that a web3 developer needs to know. You can contribute as follows:
-* **Add new resources**: If you want to add to this list, open an issue, share the link, describe what is about and why you like it. 
-* **Edit existing resources**: If you believe that there are better tutorials/packages/tools than the ones that are listed above, open an issue, share the link, describe what it is about and why you think it's better than the currently listed one. 
-
+# Learning by doing
+The best way to learn web3 development is working on a concrete project. If you have experience in web3 development and want to help build a unique derivatives protocol on Ethereum, reach out via Twitter (@Walodja1987) or via email (info@divaprotocol.io).  
 
 
 [Grider]: <https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/>
