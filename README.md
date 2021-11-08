@@ -1,17 +1,17 @@
 # Web3 Development Resources
 
-This is a curated list of web3 related tutorials that I personally found very helpful when starting with web3 development. In terms of background, I had many years of programming experience in Matlab, Python, Excel VBA, and SQL prior to that.
+This is a curated list of web3 related tutorials that I personally found very helpful when starting with web3 development. When I started, I had several years of programming experience in Matlab, Python, Excel VBA, and SQL but no meaningful experience in web2 development. As web3 builds on top of web2, you will also find web2 content which I had to learn as well. Feel free to ignore if you know it already.
 
 # 💎Solidity
 * [Full Solidity course by Stephen Grider][Grider] - Excellent udemy course that teaches you the basics of interacting with smart contracts on Ethereum without using a framework like truffle or hardhat. This will help you to appreciate truffle/hardhat later on. Note that this tutorial uses an old version of the Solidity compiler, but I think it's still worth it as he explains the general concepts very well.
-* [Eattheblocks tutorials on youtube][Eattheblocks] - Eattheblocks has many short tutorials and intros on Solidity and Web3 which I found very helpful 
+* [Eattheblocks tutorials on youtube][Eattheblocks] - Eattheblocks has many short tutorials and intros on Solidity and Web3 which I found very helpful.
 
 # 🎭 NFT minting
 * [Alchemy NFT minting tutorial][AlchemyNFT] - Great tutorial showing how to set up an NFT minting page starting from the Solidity contracts in hardhat and then implementing the Wallet Connect button and the mint functionality using React. Highly recommended! 
 
 # 🕸️ React
-* [How to build a website in React][ReactWebsite] - Great tutorial to learn how to build a website using a React (not web3 related)  
-* [Task tracker][TaskTrackerReact] - Great tutorial to learn how to build an interactive task tracker in React (not web3 related)
+* [How to build a website in React][ReactWebsite] - Great tutorial to learn how to build a website using a React (web2)  
+* [Task tracker][TaskTrackerReact] - Great tutorial to learn how to build an interactive task tracker in React (web2)
 
 # 🎨 CSS
 * [Complete Course][CSSCompleteCourse] - Very good full course on CSS. 
@@ -20,12 +20,13 @@ This is a curated list of web3 related tutorials that I personally found very he
 * [Typescript Crash Course] - Typescript is an open source programming language that builds on JavaScript and offers additional features. It helps to know what it is as it's used in several web3 projects (e.g., 0x protocol). It’s often referred to as the superset of JavaScript, i.e. it’s JavaScript plus some additional features.
 
 # 💻 Developer stack
-## Backend & Frontend
-* [Remix] - Online IDE for quick Smart Contract prototyping and testing
+## IDE
 * [Visual Studio Code][VSCode] - Preferred IDE for web3 development (Solidity, React, etc.). See section below on useful VSCode extensions
-* [Hardhat] - Preferred Smart Contract development framework. 
-* [Truffle] - Alternative to hardhat which is good to know about as many tutorials use it. However, hardhat seems the framework to go more recently. 
-* [Web3 library] - A JavaScript library to interact with Ethereum (it abstracts away the complexity of JSON RPC calls)
+* [Remix] - Online IDE for quick Smart Contract prototyping and testing
+## Smart contract development
+* [Hardhat] - Popular smart contract development framework. Considered superior to Truffle by many developers (incl. myself). 
+* [Truffle] - Alternative to hardhat. Good to know about as many tutorials are still based on it but developers started to prefer hardhat recently. 
+* [Web3 library] - A JavaScript library to interact with Ethereum (I personally prefer web3 over etherjs as the documentation is easier to understand).
 * [Etherjs] - Alternative to Web3. Hardhat's recommended choice to interact with Ethereum.
 ## Testing
 * [Mocha] - Test framework that runs your tests, as defined with <code>describe</code>, <code>it</code>, etc.
@@ -38,6 +39,9 @@ This is a curated list of web3 related tutorials that I personally found very he
 * JSON formatter by Clemens Peters
 * Live Server by Ritwick Dey
 * soliditiy by Juan Blanco
+
+# Cheat sheets
+... in the making ...
 
 # Contribution
 
