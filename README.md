@@ -41,7 +41,7 @@ This is a curated list of web3 related tutorials that I personally found very he
 * soliditiy by Juan Blanco
 
 # Cheat sheets
-... in the making ...
+... coming ...
 
 # Contribution
 There are many great tutorials out there, however, the goal of this list to keep it short and focus on the best tutorials in the space to make it easy and quick for newcomers to acquire the relevant knowledge about web3 development. You can contribute as follows:
