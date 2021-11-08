@@ -4,6 +4,7 @@ This is a curated list of web3 related tutorials that I personally found very he
 
 # Solidity
 * Full course by Stephen Grider: https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
+* Eattheblocks tutorials on youtube: https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA
 
 # NFT minting
 * Alchemy NFT minting tutorial: https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft
