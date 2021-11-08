@@ -1,6 +1,6 @@
 # Web3 Development Resources
 
-This is a curated list of web3 related tutorials that I personally found very helpful when starting with web3 development. When I started, I had several years of programming experience in Matlab, Python, Excel VBA, and SQL but no meaningful experience in web2 development. As web3 builds on top of web2, you will also find web2 content which I had to learn as well. Feel free to ignore if you know it already.
+This is a curated list of web3 related tutorials that I personally found very helpful when learning web3 development. When I started, I had several years of programming experience in Matlab, Python, Excel VBA, and SQL but no meaningful experience in web2 development. As web3 builds on top of web2, you will also find links to web2 tutorials here for people like me. Feel free to ignore if you know it already.
 
 # 💎Solidity
 * [Full Solidity course by Stephen Grider][Grider] - Excellent udemy course that teaches you the basics of interacting with smart contracts on Ethereum without using a framework like truffle or hardhat. This will help you to appreciate truffle/hardhat later on. Note that this tutorial uses an old version of the Solidity compiler, but I think it's still worth it as he explains the general concepts very well.
@@ -28,7 +28,7 @@ This is a curated list of web3 related tutorials that I personally found very he
 * [Truffle] - Alternative to hardhat. Good to know about as many tutorials are still based on it but developers started to prefer hardhat recently. 
 * [Web3 library] - A JavaScript library to interact with Ethereum (I personally prefer web3 over etherjs as the documentation is easier to understand).
 * [Etherjs] - Alternative to Web3. Hardhat's recommended choice to interact with Ethereum.
-## Testing
+## Smart contract testing
 * [Mocha] - Test framework that runs your tests, as defined with <code>describe</code>, <code>it</code>, etc.
 * [Chai] - Chai asserts that the values in your tests are correct (<code>expect</code>, <code>assert</code>)
 * [Waffle] - Test framework for writing and testing smart contracts. It provides tools for compiling and deploying contracts, functions for testing contracts, contract mocks, extra Chai assertions etc. It can be used in addition to Mocha (as well as other test runners like Jest), Waffle does not run tests itself. Waffle is [hardhat's recommended choice] for testing.
