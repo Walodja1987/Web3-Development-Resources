@@ -14,7 +14,7 @@ This is a curated list of web3 related tutorials that I personally found very he
 * [Task tracker][TaskTrackerReact] - Great tutorial to learn how to build an interactive task tracker in React (web2)
 
 # 🎨 CSS
-* [Complete Course][CSSCompleteCourse] - Very good full course on CSS. 
+* [Complete Course][CSSCompleteCourse] - Very good overview on CSS. 
 
 # 📜 Typescript
 * [Typescript Crash Course] - Typescript is an open source programming language that builds on JavaScript and offers additional features. It helps to know what it is as it's used in several web3 projects (e.g., 0x protocol). It’s often referred to as the superset of JavaScript, i.e. it’s JavaScript plus some additional features.
